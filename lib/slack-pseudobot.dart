@@ -1,0 +1,1 @@
+export 'package:slack_pseudobot/src/pseudobot_service.dart';

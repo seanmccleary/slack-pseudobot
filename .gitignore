@@ -1,0 +1,19 @@
+# Files and directories created by pub
+.packages
+.pub/
+build/
+# Remove the following pattern if you wish to check in your lock file
+pubspec.lock
+
+# Directory created by dartdoc
+doc/api/
+
+.idea
+*.iml
+data
+
+google_cloud.key
+google_cloud_credentials.txt
+bin/log.txt
+*.snapshot
+.git-old

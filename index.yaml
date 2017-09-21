@@ -1,0 +1,17 @@
+indexes:
+
+- kind: Gram
+  properties:
+  - name: corpusId
+  - name: isStartOfChain
+  - name: randomNumber
+
+- kind: Gram
+  properties:
+  - name: corpusId
+  - name: comparableItemsString
+
+- kind: Gram
+  properties:
+  - name: isStartOfChain
+  - name: comparableItemsString
